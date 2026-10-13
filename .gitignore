@@ -1,0 +1,11 @@
+# Runtime outputs and local credentials
+.git/
+stk-output/
+validation/
+backups/
+*.log
+.env
+.env.*
+*.pem
+*.key
+__pycache__/

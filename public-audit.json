@@ -1,0 +1,121 @@
+{
+  "status": "PASS",
+  "date": "2026-10-13",
+  "intended_repository": "https://github.com/nuaazxx/matlab-stk-com-skill",
+  "scope": "Prepared public skill files and README; local logs/backups/original tutorial files excluded.",
+  "source_files": 172,
+  "source_m_files": 170,
+  "source_mlx_files": 2,
+  "module_count": 9,
+  "public_matlab_files": 12,
+  "matlab_implementation_matches_runtime_tested_baseline": true,
+  "scripts": [
+    {
+      "path": "scripts/private/stk_validate_name.m",
+      "implementation_matches_tested_baseline": true,
+      "file_bytes_match_baseline": true,
+      "sha256": "010a328e30694ed56ef876a7245a61c028999b97302116091076219a6cf9ca87"
+    },
+    {
+      "path": "scripts/private/stk_validate_text.m",
+      "implementation_matches_tested_baseline": true,
+      "file_bytes_match_baseline": true,
+      "sha256": "b29e8da71ba6ff9363d6594ddd436349741a61f1abc32bb914133a02742c685c"
+    },
+    {
+      "path": "scripts/private/stk_validate_utcg.m",
+      "implementation_matches_tested_baseline": true,
+      "file_bytes_match_baseline": true,
+      "sha256": "4f78036d5514c755b0522e24bddb329f6e938cd2293648f3aab4fbd907500f48"
+    },
+    {
+      "path": "scripts/stk_access_intervals.m",
+      "implementation_matches_tested_baseline": true,
+      "file_bytes_match_baseline": true,
+      "sha256": "bb3c05c5843e01ec0d266d8ba32982c95fccb027cc12af0d6c9d8bbff97cc0af"
+    },
+    {
+      "path": "scripts/stk_connect.m",
+      "implementation_matches_tested_baseline": true,
+      "file_bytes_match_baseline": true,
+      "sha256": "a0b30f3ca2b28ddd33da902114c55ce892dc8dc20384953796a84efbb01529f7"
+    },
+    {
+      "path": "scripts/stk_create_satellite.m",
+      "implementation_matches_tested_baseline": true,
+      "file_bytes_match_baseline": true,
+      "sha256": "28a6689c3f0b5c5520a52e3ed765c604cb4ca977b9a8ee0ecef5f15c4bf3ab95"
+    },
+    {
+      "path": "scripts/stk_create_scenario.m",
+      "implementation_matches_tested_baseline": true,
+      "file_bytes_match_baseline": true,
+      "sha256": "9e6312eea473e78181f3a4eff90f2c037cef5a56d735ec9a607350b696c02de1"
+    },
+    {
+      "path": "scripts/stk_disconnect.m",
+      "implementation_matches_tested_baseline": true,
+      "file_bytes_match_baseline": true,
+      "sha256": "5f819d424bbf1f59d45801dd64540daa41df3ed2c30f2f6504e399acf6f7d955"
+    },
+    {
+      "path": "scripts/stk_export_report.m",
+      "implementation_matches_tested_baseline": true,
+      "file_bytes_match_baseline": true,
+      "sha256": "fae6571ecebde29f5d896d2131727560f850eca08b19c45431b51a8511747ed1"
+    },
+    {
+      "path": "scripts/stk_get_report.m",
+      "implementation_matches_tested_baseline": true,
+      "file_bytes_match_baseline": true,
+      "sha256": "41d5b0afbdd0783b54ab30052c0b2b918cbdeedccdfd8dbfb9902be35aa5432e"
+    },
+    {
+      "path": "scripts/stk_smoke_test.m",
+      "implementation_matches_tested_baseline": true,
+      "file_bytes_match_baseline": false,
+      "sha256": "02ef5d7d51a6f7f2c67477e65ce6bbe7694e1bb389e9bc2e780532b409235e0b"
+    },
+    {
+      "path": "scripts/stk_units.m",
+      "implementation_matches_tested_baseline": true,
+      "file_bytes_match_baseline": true,
+      "sha256": "ce56a02aee29caaf1f73e7fee2d474e5c38f3afde21e4234da1e47e246d3a108"
+    }
+  ],
+  "historical_runtime_validation": [
+    {
+      "matlab": "2020b",
+      "stk": "12.1.0",
+      "samples": 61,
+      "access_count": 6,
+      "result": "PASS",
+      "local_log_sha256": "da2e5e4ce1b0c63d30a2589fea6245208cd1351c59ea1d38c68f33b8ee2804d9"
+    },
+    {
+      "matlab": "2023b",
+      "stk": "12.1.0",
+      "samples": 61,
+      "access_count": 6,
+      "result": "PASS",
+      "local_log_sha256": "bce014dcc6da5ebef149ef10f46008495101b2ff113d5b58dccbea84e28230f9"
+    }
+  ],
+  "checks": [
+    "UTF-8 and YAML",
+    "Markdown relative links",
+    "publication file allowlist",
+    "heuristic secret scan",
+    "no private machine-specific paths",
+    "no unexpected template execution/network/delete APIs",
+    "all 12 MATLAB implementations match tested baseline",
+    "source inventory copied unchanged",
+    "SHA-256 manifest"
+  ],
+  "limits": [
+    "STK 11.6 not runtime-validated.",
+    "Advanced tutorial workflows statically reviewed only.",
+    "Local runtime logs are retained by creator and not published.",
+    "Secret scan is heuristic, not a third-party certification."
+  ]
+}

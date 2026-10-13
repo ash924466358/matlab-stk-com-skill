@@ -1,0 +1,4 @@
+interface:
+  display_name: "MATLAB–STK COM 互联"
+  short_description: "用 MATLAB 连接 STK、建立场景与卫星、计算 Access 并导出报告"
+  default_prompt: "使用 $matlab-stk-com 完成 MATLAB 与 STK 的 COM 自动化，并检查单位、时间和会话所有权。"

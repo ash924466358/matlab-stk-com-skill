@@ -1,0 +1,197 @@
+{
+  "skill": "matlab-stk-com",
+  "algorithm": "SHA-256",
+  "excluded_self": "manifest-sha256.json",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 9,
+      "sha256": "8b9c3028d6467ff3be7c793141927841d70f47f52d0590677438f488ca154992"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 133,
+      "sha256": "373c868a04853cf998bb66d5cabbe2f6437edd4e6be573968d6753ec729586e1"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 286,
+      "sha256": "acb58e889a2e8d7d51a9ff434945cb955e41cc9ff9b339fd7e3591e848ce7cfd"
+    },
+    {
+      "path": "public-audit.json",
+      "bytes": 4501,
+      "sha256": "868c12c08e69343836b078d2339f53d1774ba0c209ebd2232e2788e6ae55409f"
+    },
+    {
+      "path": "README.md",
+      "bytes": 11912,
+      "sha256": "cd651cd50b527c24c1f27aa412c65d782e3fdfe8a02fc6705811974f8886ba60"
+    },
+    {
+      "path": "references/advanced-scenarios.md",
+      "bytes": 7663,
+      "sha256": "24d2d5b74256412174f936b63058bd5f8f40e9a091cb687cfdf1a195be5b76d2"
+    },
+    {
+      "path": "references/com-object-model.md",
+      "bytes": 4341,
+      "sha256": "e46ab5bc30d45b2e479e2c9cdfb508fcc91828a9072da6d62c67fc4a79aa2ea5"
+    },
+    {
+      "path": "references/connect-commands.md",
+      "bytes": 3111,
+      "sha256": "b65ec643b1b147c00d4dd1a69d420f7617326f6a54a8a2217553d78fcf57ce2c"
+    },
+    {
+      "path": "references/dataproviders-reports.md",
+      "bytes": 3238,
+      "sha256": "a281f80cdbfae4ef7022985c3af271d70da14e2072c2fdc0a022cafae6e61bb3"
+    },
+    {
+      "path": "references/installation.md",
+      "bytes": 2167,
+      "sha256": "e6ec8c5dc221695135d36527210daaf96831e9e00a66e35f499e521276d59eab"
+    },
+    {
+      "path": "references/modules/analysis-functions.md",
+      "bytes": 4318,
+      "sha256": "3d8fa4a27b5d737df121d83e4dcde4a639dc4ec7c5ea816e8d5c2684f8c20bdc"
+    },
+    {
+      "path": "references/modules/animation-control.md",
+      "bytes": 2818,
+      "sha256": "559a5cac4eef3fa022ebf7b6a8a5d7f00e03b1c982d48095cff56450aad96d1f"
+    },
+    {
+      "path": "references/modules/connection.md",
+      "bytes": 2399,
+      "sha256": "c4be1dbf62ef0116d8234b519e11ea72cf779efc46b0e3fa3252141abc84e492"
+    },
+    {
+      "path": "references/modules/customization.md",
+      "bytes": 3792,
+      "sha256": "a494a8c1316a6fd13f6820c2460b70c0b2693f02bde1909f66a56679cdad82fb"
+    },
+    {
+      "path": "references/modules/data-import.md",
+      "bytes": 4032,
+      "sha256": "3210caab8da8e4a61e1b996e1562a5cf74316d49e2cb32773c011114617273c0"
+    },
+    {
+      "path": "references/modules/data-output.md",
+      "bytes": 3822,
+      "sha256": "13684b58fe31265efadd29ddcf028717eb12bb87bf0152436f476ee4f8d76850"
+    },
+    {
+      "path": "references/modules/object-management.md",
+      "bytes": 3475,
+      "sha256": "97361753b15f912c85b2fe54383938483faa9e1350753c5f8286b4426106926d"
+    },
+    {
+      "path": "references/modules/realtime-simulink.md",
+      "bytes": 4056,
+      "sha256": "9833b88d3efa83cbb75c7f509584474819b1959cc20d1b32bd38d64dbe4aa00e"
+    },
+    {
+      "path": "references/modules/scenario-management.md",
+      "bytes": 2408,
+      "sha256": "6c0bb94237be39e96bf7c1c8d3d1207b68c7899bbff8e07ba1ede237437bca63"
+    },
+    {
+      "path": "references/security-audit.md",
+      "bytes": 4698,
+      "sha256": "b533d6cbddead51cde20e04f469ed915882f2ac150255e117f5a37165d2a8ad1"
+    },
+    {
+      "path": "references/source-inventory.csv",
+      "bytes": 31652,
+      "sha256": "3f45e7217dd599f1ccffe574b42d633beeb30951c5c228b7c421e78666c8d4ca"
+    },
+    {
+      "path": "references/source-review.md",
+      "bytes": 6468,
+      "sha256": "8b259de6c86bef2dfd032abaea4fe9879ebfca58715806889c8be4a2137e39cb"
+    },
+    {
+      "path": "references/troubleshooting.md",
+      "bytes": 3403,
+      "sha256": "f4574cf4b2dc5d52aa64c3dbb8dc63a2e0848cad82201e02af20434684016ece"
+    },
+    {
+      "path": "references/tutorial-case-index.md",
+      "bytes": 17281,
+      "sha256": "752779f179433773975639d53cf21277c6e639b99103e5dad8fc3d2d824af8fc"
+    },
+    {
+      "path": "references/tutorial-review.md",
+      "bytes": 9113,
+      "sha256": "f5bb3d40b10783208f6e30d20d2628c34e613754745eb19607b37f9586987762"
+    },
+    {
+      "path": "scripts/private/stk_validate_name.m",
+      "bytes": 307,
+      "sha256": "010a328e30694ed56ef876a7245a61c028999b97302116091076219a6cf9ca87"
+    },
+    {
+      "path": "scripts/private/stk_validate_text.m",
+      "bytes": 346,
+      "sha256": "b29e8da71ba6ff9363d6594ddd436349741a61f1abc32bb914133a02742c685c"
+    },
+    {
+      "path": "scripts/private/stk_validate_utcg.m",
+      "bytes": 419,
+      "sha256": "4f78036d5514c755b0522e24bddb329f6e938cd2293648f3aab4fbd907500f48"
+    },
+    {
+      "path": "scripts/stk_access_intervals.m",
+      "bytes": 844,
+      "sha256": "bb3c05c5843e01ec0d266d8ba32982c95fccb027cc12af0d6c9d8bbff97cc0af"
+    },
+    {
+      "path": "scripts/stk_connect.m",
+      "bytes": 2042,
+      "sha256": "a0b30f3ca2b28ddd33da902114c55ce892dc8dc20384953796a84efbb01529f7"
+    },
+    {
+      "path": "scripts/stk_create_satellite.m",
+      "bytes": 1784,
+      "sha256": "28a6689c3f0b5c5520a52e3ed765c604cb4ca977b9a8ee0ecef5f15c4bf3ab95"
+    },
+    {
+      "path": "scripts/stk_create_scenario.m",
+      "bytes": 825,
+      "sha256": "9e6312eea473e78181f3a4eff90f2c037cef5a56d735ec9a607350b696c02de1"
+    },
+    {
+      "path": "scripts/stk_disconnect.m",
+      "bytes": 890,
+      "sha256": "5f819d424bbf1f59d45801dd64540daa41df3ed2c30f2f6504e399acf6f7d955"
+    },
+    {
+      "path": "scripts/stk_export_report.m",
+      "bytes": 2669,
+      "sha256": "fae6571ecebde29f5d896d2131727560f850eca08b19c45431b51a8511747ed1"
+    },
+    {
+      "path": "scripts/stk_get_report.m",
+      "bytes": 3051,
+      "sha256": "41d5b0afbdd0783b54ab30052c0b2b918cbdeedccdfd8dbfb9902be35aa5432e"
+    },
+    {
+      "path": "scripts/stk_smoke_test.m",
+      "bytes": 4113,
+      "sha256": "02ef5d7d51a6f7f2c67477e65ce6bbe7694e1bb389e9bc2e780532b409235e0b"
+    },
+    {
+      "path": "scripts/stk_units.m",
+      "bytes": 1128,
+      "sha256": "ce56a02aee29caaf1f73e7fee2d474e5c38f3afde21e4234da1e47e246d3a108"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 8275,
+      "sha256": "71b6a948b4687645bb77621affdcb88320d36906e03c4c07201282a3e3942bdc"
+    }
+  ]
+}
